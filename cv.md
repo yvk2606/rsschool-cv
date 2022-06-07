@@ -12,3 +12,9 @@
 ***
 I work as a support engineer in agro-industrial company. I help to user with hardware, basic and additional software. Also I make installation of cabel communication systems.  
 I want to grown skills as a Frontend Developer.
+### Skills
+***
+- HTML
+- CSS
+- JS (basic)
+- Joomla
