@@ -18,3 +18,11 @@ I want to grown skills as a Frontend Developer.
 - CSS
 - JS (basic)
 - Joomla
+### Code Example
+***
+```
+function multiply(a, b){
+ return a * b;
+  
+}
+```  
