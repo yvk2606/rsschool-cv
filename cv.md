@@ -26,3 +26,16 @@ function multiply(a, b){
   
 }
 ```  
+### Education
+- **University:**  
+    + Belarusian State University of Food and Chemical Technologies, Automation Engineer in Food Industry  
+    + Mogilev State A. Kuleshov University, Jurisprudence
+
+- **Courses:**
+    + JS/FE Pre-School 2022Q2 (in progress)  
+
+### Languages
+***
+- Russian - Native  
+- Belarussian - Intermediate  
+- English - Elementary
